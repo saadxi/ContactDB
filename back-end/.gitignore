@@ -1,0 +1,6 @@
+node_modules
+credentials.json
+build
+.env
+.gcloudignore
+prod-env.yaml
